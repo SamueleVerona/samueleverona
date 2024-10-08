@@ -1,4 +1,4 @@
-## Hi there, i'm Samuele and a starting Web Developer 👋
+## Hi there, i'm Samuele and i am a starting Web Developer 👋
 
 
 - 🔭 I’m currently working on a dummy app to demo the MVC architecture using JavaScript.
